@@ -1,9 +1,6 @@
 ﻿# 🛰 About
 A very clean external aimbot written as a YouTube tutorial.
 
-## 🌠 Video
-External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
-
 ## 🌌 Setup
 - Clone the repo
 - Change the aimbot key to your desired key
